@@ -1,0 +1,254 @@
+::-webkit-scrollbar {
+display: none;
+}
+
+.st{
+	padding:1px 1px;
+	background-color: white;
+	color: black;
+	border-radius: 50%;
+	font-family: cursive;
+}
+.cjias{
+	color: white;
+}
+
+.input-margin-top{
+	margin-top: 2%;
+}
+
+.form-margin-top{
+	margin-top: 10%;
+}
+
+#profile{
+	border-radius: 50%;
+	width: 200px;
+	height: 200px;
+}
+
+#sprofile{
+	border-radius: 50%;
+	width: 20px;
+	height: 20px;
+}
+
+img{
+	border-radius: 50%;
+	width: 45px;
+	height: 45px; 
+}
+
+ul img{
+	border-radius: 50%;
+	width: 25px;
+	height: 25px;
+}
+
+.form-short{
+	width: 20px;
+}
+
+.margin-left{
+	margin-left: 3%;
+}
+
+.margin-right{
+	margin-right: 5%;
+}
+
+#img{
+	height: 200px;
+	width: 200px;
+}
+
+.block{
+	width: 100%;
+}
+
+.link{
+	color: #95A5A6;
+}
+
+.link:hover{
+	color: #17202A;
+	text-decoration: none;
+}
+
+.top{
+	margin-top: 5%;
+}
+
+.form{
+	width: 15px;
+}
+
+.no-border{
+	border: 0;
+	box-shadow: none;
+	width: 40px;
+}
+
+.no-border0{
+	border: 0;
+	box-shadow: none;
+	width: 120px;
+}
+
+.no-border1{
+	border: 0;
+	box-shadow: none;
+	width: 55px;
+}
+
+.no-border2{
+	border: 0;
+	box-shadow: none;
+	width: 70px;
+}
+
+.no-border3{
+	border: 0;
+	box-shadow: none;
+	width: 200px;
+}
+
+.no-border4{
+	border: 0;
+	box-shadow: none;
+	width: 100px;
+}
+
+.no-border5{
+	border: 0;
+	box-shadow: none;
+	width: 500px;	
+}
+
+.sub{
+	display: none;
+}
+
+#img{
+	height: 10%;
+	width: 10%;
+}
+
+.right{
+	margin-left: 7%;
+}
+
+.verdana{
+	font-family: verdana;
+}
+
+.cursive{
+	font-family: cursive;
+}
+
+#user{
+	border-radius: 50%;
+	height: 200px;
+	width: 200px;
+}
+
+@media print {
+    #myPrntbtn {
+        display :  none;
+    }
+
+    p{
+    	font-size: 10px;
+    }
+
+    #schoolname{
+    	font-size: 20px;
+    }
+
+    #h5{
+    	font-size: 12px;
+    }
+
+    tr td{
+	  padding: 0 !important;
+	  margin: 0 !important;
+	}
+}
+
+@media screen and (min-width: 992px) {
+        .modal-lg {
+          width: 950px; /* New width for large modal */
+          margin: 0 auto;
+        }
+}
+
+@media screen and (min-width: 992px) {
+        .modal-xlg {
+          width: 1200px; /* New width for large modal */
+          margin: 0 auto;
+        }
+}
+
+.front{
+	background-image: url('/images/building.jpg');
+	background-repeat: no-repeat;
+	background-size: auto;
+	padding-bottom: 40%;
+	color: white;
+	background-attachment: fixed;
+}
+
+.text-front{
+	margin-top: 25%;
+	background-color: black;
+	opacity: 0.8;
+	padding: 15px 15px 15px 15px;
+}
+
+#frontlogo{
+	width: 10%;
+	height: 10%; 
+}
+
+.bg-secondary{
+	background-color: gray;
+}
+
+#btn-group-img{
+	width: 30px;
+	height: 30px;
+}
+
+#user{
+	width: 70%;
+	height: 70%;
+}
+
+#ol{
+	font-family: cursive;
+	font-size: 50px;
+}
+
+@media (max-width: 800px){
+	.text-front{
+		margin-top: 10%;
+	}
+
+	#ol{
+		font-size: 40px;
+	}
+}
+
+#userpic{
+	border-radius: 50%;
+	width: 250px;
+	height: 250px;
+}
+
+#navpic{
+	border-radius: 50%;
+	width: 150px;
+	height: 150px;
+	margin-right: 100px;
+	margin-left: 100px;
+}
